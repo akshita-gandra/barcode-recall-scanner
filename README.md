@@ -6,6 +6,7 @@
 A mobile-friendly web app that lets consumers scan grocery barcodes or receipt photos to instantly check for active FDA food recalls and assess ingredient-level health risk against personalized allergen and dietary profiles.
 
 🔗 [Berkeley I-School project page](https://www.ischool.berkeley.edu/projects/2026/safe-cart-real-time-food-safety-intelligence)
+🔗 [Product Demo] (https://vimeo.com/1182072357?fl=pl&fe=sh)
 
 ---
 
